@@ -92,4 +92,4 @@ The JUnit tests cover the following basic functions:
 ## Author
 
 I. Maltsev
-03/07/2018
+
